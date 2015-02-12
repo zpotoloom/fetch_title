@@ -27,7 +27,6 @@ get_len equ $-get
 section .bss
 
 buffer:	resb 2048
-title:	resw 10			; 40 characters
 
 ; --------------------------------------------------------------
 section .text
