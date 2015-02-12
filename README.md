@@ -1,2 +1,3 @@
-# fetch_title
-Fetches URL title
+# Requirements
+
+nasm assembler
